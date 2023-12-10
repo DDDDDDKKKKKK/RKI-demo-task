@@ -1,4 +1,4 @@
 # RKI Color Balance Calculator
-Author David Ketels
+Author: David Ketels
 
-## 
+## Requered librarys
