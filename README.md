@@ -1,1 +1,1 @@
-# RKI_Color_Balance_Calculator
+# RKI Color Balance Calculator
