@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 /**
  * Simple Color-Balance Calculator for DNA-sequences. 
  * The cross sequence (index) count of laser triggers (RED or GREEN) for each sequence base position is calculated. 
- * Further the Object to checks if multiple artificial DNA-sequences are in combination valid: success or failure.
+ * Further more it is checkd if multiple artificial DNA-sequences are in combination valid: success or failure.
  * 
  * @author name David Ketels
  * @version 09.12.2023
